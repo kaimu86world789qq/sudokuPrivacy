@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Privacy Policy (Sudoku)
+title: Privacy Policy (自然音に包まれながらナンプレ)
 ---
 
-# Privacy Policy (Sudoku)
+# Privacy Policy (自然音に包まれながらナンプレ)
 
 
 **Last updated: October 20, 2026**  
 **Operator: Trierr** (Japanese reading: トリエラ / Toriera)  
 The App is operated by an individual. Trierr is the operator's trade name / brand name.
 
-This policy explains how information is handled in Sudoku (Japanese name: ナンプレ, the “App”), distributed through Google Play and the Amazon Appstore.
+This policy explains how information is handled in the Sudoku puzzle app “自然音に包まれながらナンプレ” (short name and device display name: “自然音ナンプレ”, the “App”), distributed through Google Play and the Amazon Appstore.
 
 ## 1. About the App
 
@@ -28,7 +28,7 @@ The App stores the following information in its local app storage to provide gam
 | Hint content and usage count, rewarded-ad viewing and reward-processing status | Providing hints and preventing duplicate reward processing |
 | Clear counts and best times by difficulty | Displaying records |
 | Puzzle history, identifiers for completed plays, and prepared puzzles | Reducing repeated puzzles, preventing duplicate completion records, and preparing puzzles |
-| Display language, input-sound preference, selected ambient audio, and ambient volume | Remembering preferences |
+| Display language, selected ambient audio, and ambient volume | Remembering preferences |
 | Clear counter for ad frequency, identifier of a play eligible for an ad, and last full-screen ad display time | Controlling how often ads appear |
 | Diagnostic records of save, hint, and advertising results or errors (up to the latest 100 entries) | Checking App behavior and investigating problems |
 
@@ -93,3 +93,4 @@ This policy will be updated when App features or service providers change. Chang
 **Email:** [dokuostyktusdfire45gnbr1988@gmail.com](mailto:dokuostyktusdfire45gnbr1988@gmail.com)
 
 [日本語](privacy-ja.html) · [Policy home](index.html)
+

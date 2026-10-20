@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Sudoku · Privacy
+title: 自然音ナンプレ · Privacy
 permalink: /
 ---
 
-# ナンプレ / Sudoku
+# 自然音に包まれながらナンプレ
+
+略称・端末での表示名：**自然音ナンプレ**  
+Short name / device display name: **自然音ナンプレ**
 
 プライバシーポリシー / Privacy Policy
 
@@ -14,3 +17,4 @@ permalink: /
 
 - [プライバシーポリシー（日本語）](privacy-ja.html)
 - [Privacy Policy (English)](privacy-en.html)
+

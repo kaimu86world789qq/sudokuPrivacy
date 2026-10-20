@@ -1,0 +1,7 @@
+# GitHub Pages (Jekyll). When these files are at the repository root,
+# select main / (root) under Settings > Pages.
+theme: minima
+title: "Sudoku · Privacy"
+description: "ナンプレ / Sudoku · Privacy policies · Trierr"
+header_pages:
+  - index.md

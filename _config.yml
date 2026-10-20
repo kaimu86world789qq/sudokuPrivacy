@@ -1,7 +1,7 @@
 # GitHub Pages (Jekyll). When these files are at the repository root,
 # select main / (root) under Settings > Pages.
 theme: minima
-title: "Sudoku · Privacy"
-description: "ナンプレ / Sudoku · Privacy policies · Trierr"
+title: "自然音ナンプレ · Privacy"
+description: "自然音に包まれながらナンプレ（自然音ナンプレ） · Privacy policies · Trierr"
 header_pages:
   - index.md

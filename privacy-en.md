@@ -28,7 +28,7 @@ The App stores the following information in its local app storage to provide gam
 | Hint content and usage count, rewarded-ad viewing and reward-processing status | Providing hints and preventing duplicate reward processing |
 | Clear counts and best times by difficulty | Displaying records |
 | Puzzle history, identifiers for completed plays, and prepared puzzles | Reducing repeated puzzles, preventing duplicate completion records, and preparing puzzles |
-| Display language, input-sound preference, selected ambient audio, and ambient volume | Remembering preferences |
+| Display language, selected ambient audio, and ambient volume | Remembering preferences |
 | Clear counter for ad frequency, identifier of a play eligible for an ad, and last full-screen ad display time | Controlling how often ads appear |
 | Diagnostic records of save, hint, and advertising results or errors (up to the latest 100 entries) | Checking App behavior and investigating problems |
 
